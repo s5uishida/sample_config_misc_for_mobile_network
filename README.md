@@ -71,3 +71,4 @@
 
 - [Install MongoDB 4.4.18 on Ubuntu 20.04 for Raspberry Pi 4B](https://github.com/s5uishida/install_mongodb_on_ubuntu_for_rp4b)
 - [A Note for 5G SUCI Profile A/B Scheme](https://github.com/s5uishida/note_5g_suci_profile_ab)
+- [Simple Measurement of UPF Performance](https://github.com/s5uishida/simple_measurement_of_upf_performance)
