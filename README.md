@@ -50,6 +50,7 @@
 8. [eUPF(eBPF/XDP UPF)](https://github.com/s5uishida/free5gc_ueransim_eupf_sample_config)
 
 - [Install MongoDB 6.0 and free5GC WebUI](https://github.com/s5uishida/free5gc_install_mongodb6_webui)
+- [Install MongoDB 7.0 and free5GC WebUI](https://github.com/s5uishida/free5gc_install_mongodb7_webui)
 - [A Note for Enabling NetworkInstance IE Encoding for free5GC v3.3.0](https://github.com/s5uishida/enable_network_instance_encoding_free5gc_v3_3_0)
 
 <a id="upf"></a>
