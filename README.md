@@ -33,6 +33,7 @@
 15. [eUPF(eBPF/XDP UPF)](https://github.com/s5uishida/open5gs_5gc_ueransim_eupf_sample_config)
 
 - [Install MongoDB 6.0 and Open5GS WebUI](https://github.com/s5uishida/open5gs_install_mongodb6_webui)
+- [Install MongoDB 7.0 and Open5GS WebUI](https://github.com/s5uishida/open5gs_install_mongodb7_webui)
 - [A Note for Changing Network Interface of UPF from TUN to TAP in Open5GS](https://github.com/s5uishida/change_from_tun_to_tap_in_open5gs)
 
 <a id="free5gc"></a>
