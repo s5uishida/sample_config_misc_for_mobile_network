@@ -32,8 +32,7 @@
 14. [eUPF(eBPF/XDP UPF(PGW-U))](https://github.com/s5uishida/open5gs_epc_srsran_eupf_sample_config)
 15. [eUPF(eBPF/XDP UPF)](https://github.com/s5uishida/open5gs_5gc_ueransim_eupf_sample_config)
 
-- [Install MongoDB 6.0 and Open5GS WebUI](https://github.com/s5uishida/open5gs_install_mongodb6_webui)
-- [Install MongoDB 7.0 and Open5GS WebUI](https://github.com/s5uishida/open5gs_install_mongodb7_webui)
+- [Install MongoDB 7.0 and Open5GS WebUI](https://github.com/s5uishida/open5gs_install_mongodb_webui)
 - [A Note for Changing Network Interface of UPF from TUN to TAP in Open5GS](https://github.com/s5uishida/change_from_tun_to_tap_in_open5gs)
 
 <a id="free5gc"></a>
@@ -49,8 +48,7 @@
 7. [VPP-UPF with DPDK](https://github.com/s5uishida/free5gc_ueransim_vpp_upf_dpdk_sample_config)
 8. [eUPF(eBPF/XDP UPF)](https://github.com/s5uishida/free5gc_ueransim_eupf_sample_config)
 
-- [Install MongoDB 6.0 and free5GC WebUI](https://github.com/s5uishida/free5gc_install_mongodb6_webui)
-- [Install MongoDB 7.0 and free5GC WebUI](https://github.com/s5uishida/free5gc_install_mongodb7_webui)
+- [Install MongoDB 7.0 and free5GC WebUI](https://github.com/s5uishida/free5gc_install_mongodb_webui)
 - [A Note for Enabling NetworkInstance IE Encoding for free5GC v3.3.0](https://github.com/s5uishida/enable_network_instance_encoding_free5gc_v3_3_0)
 
 <a id="upf"></a>
