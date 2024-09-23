@@ -57,6 +57,7 @@
 
 - [Install VPP-UPF with DPDK on Host](https://github.com/s5uishida/install_vpp_upf_dpdk)
 - [Install eUPF(eBPF/XDP UPF) on Host](https://github.com/s5uishida/install_eupf)
+- [Install OsmoUPF on Host](https://github.com/s5uishida/install_osmoupf)
 
 <a id="ran_ue"></a>
 
