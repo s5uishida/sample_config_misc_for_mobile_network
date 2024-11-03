@@ -75,7 +75,8 @@
 - [Simple Measurement of UPF Performance](https://github.com/s5uishida/simple_measurement_of_upf_performance) on Virtualbox (host os) using PacketRusher  
   **The results measured on Virtualbox VMs are not useful because Virtualbox is not a very suitable measurement environment.**
 - [Simple Measurement of UPF Performance 4](https://github.com/s5uishida/simple_measurement_of_upf_performance_4) on Proxmox VE (hypervisor) using PacketRusher
-- [Simple Measurement of UPF Performance 5](https://github.com/s5uishida/simple_measurement_of_upf_performance_5) on Proxmox VE (hypervisor) using srsRAN  
+- [Simple Measurement of UPF Performance 5](https://github.com/s5uishida/simple_measurement_of_upf_performance_5) on Proxmox VE (hypervisor) using srsRAN
+- [Install TRex](https://github.com/s5uishida/install_trex)
 
 <a id="misc"></a>
 
