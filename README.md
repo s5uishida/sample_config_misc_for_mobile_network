@@ -82,9 +82,6 @@
 <details><summary>Past measurement results</summary>
 
 - [Simple Measurement of UPF Performance](https://github.com/s5uishida/simple_measurement_of_upf_performance) on Virtualbox (host os) using PacketRusher
-- [Simple Measurement of UPF Performance 4](https://github.com/s5uishida/simple_measurement_of_upf_performance_4) on Proxmox VE (hypervisor) using PacketRusher
-- [Simple Measurement of UPF Performance 5](https://github.com/s5uishida/simple_measurement_of_upf_performance_5) on Proxmox VE (hypervisor) using srsRAN
-- [Simple Measurement of eUPF(eBPF/XDP UPF) Performance](https://github.com/s5uishida/simple_measurement_of_eupf_performance) on Proxmox VE (hypervisor) using TRex and Aether pfcpsim
 
 </details>
 
