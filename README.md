@@ -77,11 +77,11 @@
 - [Simple PFCP Client](https://github.com/s5uishida/simple_pfcp_client)
 - [Simple Measurement of UPF Performance 6](https://github.com/s5uishida/simple_measurement_of_upf_performance_6) on Proxmox VE (hypervisor) using TRex and Simple PFCP Client
 - [Simple Measurement of UPF Performance 7](https://github.com/s5uishida/simple_measurement_of_upf_performance_7) on Proxmox VE (hypervisor) using PacketRusher
-- [Simple Measurement of UPF Performance 8](https://github.com/s5uishida/simple_measurement_of_upf_performance_8) on Proxmox VE (hypervisor) using srsRAN
 
 <details><summary>Past measurement results</summary>
 
 - [Simple Measurement of UPF Performance](https://github.com/s5uishida/simple_measurement_of_upf_performance) on Virtualbox (host os) using PacketRusher
+- [Simple Measurement of UPF Performance 8](https://github.com/s5uishida/simple_measurement_of_upf_performance_8) on Proxmox VE (hypervisor) using srsRAN **--> !! This measurement is incorrect due to improper network configuration. !!**
 
 </details>
 
