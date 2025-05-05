@@ -81,7 +81,7 @@
 <details><summary>Past measurement results</summary>
 
 - [Simple Measurement of UPF Performance](https://github.com/s5uishida/simple_measurement_of_upf_performance) on Virtualbox (host os) using PacketRusher
-- [Simple Measurement of UPF Performance 8](https://github.com/s5uishida/simple_measurement_of_upf_performance_8) on Proxmox VE (hypervisor) using srsRAN **--> !! This measurement is incorrect due to improper network configuration. !!**
+- [Simple Measurement of UPF Performance 8](https://github.com/s5uishida/simple_measurement_of_upf_performance_8) on Proxmox VE (hypervisor) using srsRAN **--> <ins>!! This measurement is incorrect due to improper network configuration. !!</ins>**
 
 </details>
 
