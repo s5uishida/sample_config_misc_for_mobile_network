@@ -57,7 +57,7 @@
 ## UPF
 
 - [Install go-upf on Host](https://github.com/s5uishida/install_goupf)
-- [Install VPP-UPF with DPDK on Host](https://github.com/s5uishida/install_vpp_upf_dpdk)
+- [Install UPG-VPP(VPP/DPDK UPF) on Host](https://github.com/s5uishida/install_vpp_upf_dpdk)
 - [Install eUPF(eBPF/XDP UPF) on Host](https://github.com/s5uishida/install_eupf)
 
 <a id="ran_ue"></a>
