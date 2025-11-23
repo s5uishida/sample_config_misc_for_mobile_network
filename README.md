@@ -56,6 +56,7 @@
 
 ## UPF
 
+- [Install Open5GS UPF on Host](https://github.com/s5uishida/install_open5gs_upf)
 - [Install go-upf on Host](https://github.com/s5uishida/install_goupf)
 - [Install UPG-VPP(VPP/DPDK UPF) on Host](https://github.com/s5uishida/install_vpp_upf_dpdk)
 - [Install eUPF(eBPF/XDP UPF) on Host](https://github.com/s5uishida/install_eupf)
