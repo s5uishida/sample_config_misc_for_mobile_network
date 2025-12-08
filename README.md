@@ -86,6 +86,7 @@
 - Simple Measurement of UPF Performance 3 on Proxmox VE (hypervisor) using PacketRusher
 - Simple Measurement of UPF Performance 4 on Proxmox VE (hypervisor) using PacketRusher
 - Simple Measurement of UPF Performance 5 on Proxmox VE (hypervisor) using srsRAN
+- Simple Measurement of eUPF(eBPF/XDP UPF) Performance on Proxmox VE (hypervisor) using TRex and Aether pfcpsim
 - [Simple Measurement of UPF Performance 6](https://github.com/s5uishida/simple_measurement_of_upf_performance_6) on Proxmox VE (hypervisor) using TRex and Simple PFCP Client
 - Simple Measurement of UPF Performance 8 on Proxmox VE (hypervisor) using srsRAN
 
