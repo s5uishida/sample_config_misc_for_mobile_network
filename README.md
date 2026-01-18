@@ -32,6 +32,7 @@
 13. [UPG-VPP(DPDK/VPP UPF)](https://github.com/s5uishida/open5gs_5gc_ueransim_vpp_upf_dpdk_sample_config)
 14. [eUPF(eBPF/XDP UPF(PGW-U))](https://github.com/s5uishida/open5gs_epc_srsran_eupf_sample_config)
 15. [eUPF(eBPF/XDP UPF)](https://github.com/s5uishida/open5gs_5gc_ueransim_eupf_sample_config)
+16. [OAI-CN5G-UPF(eBPF/XDP UPF)](https://github.com/s5uishida/open5gs_5gc_ueransim_oai_upf_sample_config)
 
 - [Install MongoDB 8.0 and Open5GS WebUI](https://github.com/s5uishida/open5gs_install_mongodb_webui)
 - [A Note for Changing Network Interface of UPF from TUN to TAP in Open5GS](https://github.com/s5uishida/change_from_tun_to_tap_in_open5gs)
@@ -48,6 +49,7 @@
 6. [ULCL with one I-UPF and two PSA-UPFs](https://github.com/s5uishida/free5gc_ueransim_ulcl_2_sample_config)
 7. [UPG-VPP(DPDK/VPP UPF)](https://github.com/s5uishida/free5gc_ueransim_vpp_upf_dpdk_sample_config)
 8. [eUPF(eBPF/XDP UPF)](https://github.com/s5uishida/free5gc_ueransim_eupf_sample_config)
+9. [OAI-CN5G-UPF(eBPF/XDP UPF)](https://github.com/s5uishida/free5gc_ueransim_oai_upf_sample_config)
 
 - [Install MongoDB 8.0 and free5GC WebUI](https://github.com/s5uishida/free5gc_install_mongodb_webui)
 - [A Note for Enabling NetworkInstance IE Encoding for free5GC v3.3.0](https://github.com/s5uishida/enable_network_instance_encoding_free5gc_v3_3_0)
@@ -60,6 +62,7 @@
 - [Install go-upf on Host](https://github.com/s5uishida/install_goupf)
 - [Install UPG-VPP(DPDK/VPP UPF) on Host](https://github.com/s5uishida/install_vpp_upf_dpdk)
 - [Install eUPF(eBPF/XDP UPF) on Host](https://github.com/s5uishida/install_eupf)
+- [Install OAI-CN5G-UPF(eBPF/XDP UPF) on Host](https://github.com/s5uishida/install_oai_upf)
 
 <a id="ran_ue"></a>
 
@@ -77,7 +80,7 @@
 - [Install TRex](https://github.com/s5uishida/install_trex)
 - [Simple PFCP Client](https://github.com/s5uishida/simple_pfcp_client)
 - [Simple Measurement of UPF Performance 7](https://github.com/s5uishida/simple_measurement_of_upf_performance_7) on Proxmox VE (hypervisor) using PacketRusher
-- [Simple Measurement of UPF Performance 9](https://github.com/s5uishida/simple_measurement_of_upf_performance_9) on Proxmox VE (hypervisor) using TRex and Simple PFCP Client
+- [Simple Measurement of UPF Performance 10](https://github.com/s5uishida/simple_measurement_of_upf_performance_10) on Proxmox VE (hypervisor) using TRex and Simple PFCP Client
 
 <details><summary>Past measurement results</summary>
 
@@ -89,6 +92,7 @@
 - Simple Measurement of eUPF(eBPF/XDP UPF) Performance on Proxmox VE (hypervisor) using TRex and Aether pfcpsim
 - [Simple Measurement of UPF Performance 6](https://github.com/s5uishida/simple_measurement_of_upf_performance_6) on Proxmox VE (hypervisor) using TRex and Simple PFCP Client
 - Simple Measurement of UPF Performance 8 on Proxmox VE (hypervisor) using srsRAN
+- [Simple Measurement of UPF Performance 9](https://github.com/s5uishida/simple_measurement_of_upf_performance_9) on Proxmox VE (hypervisor) using TRex and Simple PFCP Client
 
 </details>
 
