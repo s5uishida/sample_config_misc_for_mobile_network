@@ -27,7 +27,7 @@
 8. [SCP Indirect communication Model C](https://github.com/s5uishida/open5gs_5gc_ueransim_scp_model_c_sample_config)
 9. [VoLTE and SMS Configuration for docker_open5gs](https://github.com/s5uishida/docker_open5gs_volte_sms_config)
 10. [Monitoring Metrics with Prometheus](https://github.com/s5uishida/open5gs_5gc_ueransim_metrics_sample_config)
-11. [Framed Routing](https://github.com/s5uishida/open5gs_5gc_ueransim_framed_routing_sample_config)
+11. [Framed Routing with Open5GS UPF](https://github.com/s5uishida/open5gs_5gc_ueransim_framed_routing_sample_config)
 12. [UPG-VPP(DPDK/VPP UPF(PGW-U))](https://github.com/s5uishida/open5gs_epc_srsran_vpp_upf_dpdk_sample_config)
 13. [UPG-VPP(DPDK/VPP UPF)](https://github.com/s5uishida/open5gs_5gc_ueransim_vpp_upf_dpdk_sample_config)
 14. [eUPF(eBPF/XDP UPF(PGW-U))](https://github.com/s5uishida/open5gs_epc_srsran_eupf_sample_config)
