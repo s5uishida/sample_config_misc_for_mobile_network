@@ -71,7 +71,7 @@
 
 - [Build OCUDU 5G RAN with ZeroMQ](https://github.com/s5uishida/build_ocudu_zmq)
 - [Build srsRAN_Project 5G RAN with ZeroMQ](https://github.com/s5uishida/build_srsran_5g_zmq)
-- [Build srsRAN 4G UE / RAN with ZeroMQ by disabling RF plugins](https://github.com/s5uishida/build_srsran_4g_zmq_disable_rf_plugins)
+- [Build srsRAN_4G UE / RAN with ZeroMQ by disabling RF plugins](https://github.com/s5uishida/build_srsran_4g_zmq_disable_rf_plugins)
 
 <a id="performance_measurement"></a>
 
