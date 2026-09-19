@@ -29,7 +29,7 @@
 10. [Monitoring Metrics with Prometheus](https://github.com/s5uishida/open5gs_5gc_ueransim_metrics_sample_config)
 11. [Framed Routing with Open5GS UPF(PGW-U)](https://github.com/s5uishida/open5gs_epc_srsran_framed_routing_sample_config)
 12. [Framed Routing with Open5GS UPF](https://github.com/s5uishida/open5gs_5gc_ueransim_framed_routing_sample_config)
-13. [Framed Routing with OAI-CN5G-UPF(Simple Switch)](https://github.com/s5uishida/open5gs_5gc_ueransim_oai_upf_framed_routing_sample_config)
+13. [Framed Routing with OAI-CN5G-UPF](https://github.com/s5uishida/open5gs_5gc_ueransim_oai_upf_framed_routing_sample_config)
 14. [UPG-VPP(DPDK/VPP UPF(PGW-U))](https://github.com/s5uishida/open5gs_epc_srsran_vpp_upf_dpdk_sample_config)
 15. [UPG-VPP(DPDK/VPP UPF)](https://github.com/s5uishida/open5gs_5gc_ueransim_vpp_upf_dpdk_sample_config)
 16. [eUPF(eBPF/XDP UPF(PGW-U))](https://github.com/s5uishida/open5gs_epc_srsran_eupf_sample_config)
