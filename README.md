@@ -35,7 +35,8 @@
 16. [UPG-VPP(DPDK/VPP UPF)](https://github.com/s5uishida/open5gs_5gc_ueransim_vpp_upf_dpdk_sample_config)
 17. [eUPF(eBPF/XDP UPF(PGW-U))](https://github.com/s5uishida/open5gs_epc_srsran_eupf_sample_config)
 18. [eUPF(eBPF/XDP UPF)](https://github.com/s5uishida/open5gs_5gc_ueransim_eupf_sample_config)
-19. [OAI-CN5G-UPF(eBPF/XDP UPF)](https://github.com/s5uishida/open5gs_5gc_ueransim_oai_upf_sample_config)
+19. [OAI-CN5G-UPF(PGW-U)](https://github.com/s5uishida/open5gs_epc_srsran_oai_upf_sample_config)
+20. [OAI-CN5G-UPF(eBPF/XDP UPF)](https://github.com/s5uishida/open5gs_5gc_ueransim_oai_upf_sample_config)
 
 - [Install MongoDB 8.0 and Open5GS WebUI](https://github.com/s5uishida/open5gs_install_mongodb_webui)
 - [A Note for Changing Network Interface of UPF from TUN to TAP in Open5GS](https://github.com/s5uishida/change_from_tun_to_tap_in_open5gs)
